@@ -1,4 +1,5 @@
-# E-mail-Campaign-Effectiveness-Prediction
+# E-mail-Campaign-Effectiveness-Prediction![image](https://user-images.githubusercontent.com/88799249/152290938-34de662c-5b66-4be0-b337-e5abe6f8be1e.png)
+
 The main objective is to create a machine learning model to characterize the mail and track the mail that is ignored; read; acknowledged by the reader.
 ![image](https://user-images.githubusercontent.com/88799249/151656170-b1e6999e-d02e-4fe7-8268-bb70d3667b9e.png)
 # Problem Statement
